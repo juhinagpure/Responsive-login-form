@@ -4,8 +4,11 @@
 }
 
 @font-face {
-  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
   src: url("../fonts/Roboto-Regular.ttf");
+}
+* {
+  font-family: "Roboto", sans-serif;
 }
 .page {
   height: 100vh;
